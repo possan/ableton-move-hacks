@@ -1,6 +1,6 @@
 # Ableton Move
 
-![banner.jpg](Hello World)
+![./banner.jpg](Hello World)
 
 ## SSH Access ...
 
